@@ -9,7 +9,7 @@ function Footer() {
                 Brent Peterson
             </Link>
             <p>Copyright &copy; 2020</p>
-            <div id="backgroundPhotographer" className="column"> hi</div>
+            <div id="backgroundPhotographer" className="column"></div>
         </footer>
 
     );

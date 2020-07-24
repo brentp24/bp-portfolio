@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import { NavLink } from "react-router-dom";
 import "./style.css";
 class NavBar extends Component {
-
     render() {
         return (
             <nav className="navbar navbar-expand-lg navbar-light bg-light">
@@ -15,7 +14,6 @@ class NavBar extends Component {
                 {/* <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button> */}
-
                 <div className="collapse navbar-collapse" id="navbarNavDropdown">
                     <h5>
                         <ul className="navbar-nav">
@@ -41,8 +39,6 @@ class NavBar extends Component {
                                     Portfolio
                         </NavLink>
                             </li>
-
-
                         </ul>
                     </h5>
                     {/* </div>
@@ -50,11 +46,9 @@ class NavBar extends Component {
                 <ul className="navbar-nav ml-auto">
                     
                 </ul> */}
-
                 </div>
             </nav>
         )
-
     }
 }
 
