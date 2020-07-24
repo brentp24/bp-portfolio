@@ -16,7 +16,7 @@ function Card(props) {
                         <strong>Description:</strong> {props.description}
                     </li>
                     <li>
-                        <strong>Link:</strong> {props.link}
+                        <strong>Link to application</strong> {props.link}
                     </li>
                 </ul>
             </div>

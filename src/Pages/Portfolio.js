@@ -1,7 +1,9 @@
 import React, { Component } from "react";
+// import { CardColumns } from "reactstrap";
 import Card from "../components/Card";
-import projectsJSON from "../projects.json";
+import Grid from "@material-ui/core/Grid";
 
+import projectsJSON from "../projects.json";
 
 class Portfolio extends Component {
     constructor(props) {
@@ -12,20 +14,26 @@ class Portfolio extends Component {
     }
     render() {
         return (
-
             <div>
-                {console.log(this.state)}
-                {this.state.projects.map(project => (
-                    <Card
-                        id={project.id}
-                        title={project.title}
-                        image={project.image}
-                        description={project.description}
-                        link={project.link}
-                    // project={this.state.projects}
-                    />
-                ))}
-                                {console.log(this.state)}
+
+                <Grid container
+                    spacing={2}
+                    direction="row"
+                    justify="flex-start"
+                    alignItems="flex-start"
+                >
+                    {this.state.projects.map(project => (
+                        <Grid item xs={12} sm={6} md={3} >
+                            <Card
+                                id={project.id}
+                                title={project.title}
+                                image={project.image}
+                                description={project.description}
+                                link={project.link}
+                            />
+                        </Grid>
+                    ))}
+                </Grid>
 
             </div>
         )

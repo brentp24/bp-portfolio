@@ -10,7 +10,6 @@ import Wrapper from "./components/Wrapper";
 
 function App() {
   return (
-
     <Router>
       <NavBar />
       <Wrapper>
@@ -19,7 +18,7 @@ function App() {
       </Wrapper>
       <Footer />
     </Router>
-  );
+  )
 }
 
 export default App;

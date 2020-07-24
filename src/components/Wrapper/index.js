@@ -14,10 +14,9 @@ import "./style.css";
       };
     }
     render() {
-      console.log(this.props)
       return (
         <div className="background"
-          style={this.state.backgroundStyling}>;
+          style={this.state.backgroundStyling}>
           {this.props.children.map(child => child)
           }
         </div>
@@ -27,4 +26,4 @@ import "./style.css";
 
 
 
-export default Wrapper;
+export default Wrapper
