@@ -1,11 +1,12 @@
 import React from "react";
+import {Button} from "reactstrap";
 import "./style.css";
 
 function Card(props) {
     return (
         <div className="card">
             <div className="img-container">
-                <img alt={props.title} src={props.name} />
+                <img alt={props.title} src={props.image} />
             </div>
             <div className="content">
                 <ul>
@@ -16,7 +17,7 @@ function Card(props) {
                         <strong>Description:</strong> {props.description}
                     </li>
                     <li>
-                        <strong>Link to application</strong> {props.link}
+                        <Button href={props.link}>Link to application</Button> 
                     </li>
                 </ul>
             </div>
