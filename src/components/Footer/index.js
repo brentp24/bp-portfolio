@@ -5,14 +5,14 @@ import "./style.css";
 function Footer() {
     return (
         <footer className="footer bg-dark">
-            <Link to="https://github.com/brentp24" target="_blank">
-                Brent Peterson
-            </Link>
-            <p>Copyright &copy; 2020</p>
-            <div id="backgroundPhotographer" className="column"></div>
+                <p> Brent Peterson
+           Copyright &copy; 2020</p>
+            <div>
+                <a href="https://unsplash.com/photos/h8nxGssjQXs">Photo by Jonatan Pie (@r3dmax)</a></div>
         </footer>
 
     );
 }
+
 
 export default Footer;

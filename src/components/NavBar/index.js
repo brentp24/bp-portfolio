@@ -4,7 +4,7 @@ import "./style.css";
 class NavBar extends Component {
     render() {
         return (
-            <nav className="navbar navbar-expand-lg navbar-light bg-light">
+            <nav className="navbar navbar-expand navbar-light bg-light">
                 <h3>
                     <NavLink to="/"
                         className="navbar-brand">
