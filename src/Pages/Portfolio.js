@@ -15,7 +15,6 @@ class Portfolio extends Component {
     render() {
         return (
             <div>
-
                 <Grid container
                     spacing={2}
                     direction="row"
@@ -30,11 +29,11 @@ class Portfolio extends Component {
                                 image={project.image}
                                 description={project.description}
                                 link={project.link}
+                                github={project.github}
                             />
                         </Grid>
                     ))}
                 </Grid>
-
             </div>
         )
     }

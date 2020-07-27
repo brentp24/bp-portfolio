@@ -4,84 +4,80 @@
     "title": "Pantree",
     "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80",
     "description": "Grocery List, Recipe App",
+    "link": "https://polar-reaches-63897.herokuapp.com/",
+    "github": "https://github.com/brentp24/pantry"
 
-    "link": "https://polar-reaches-63897.herokuapp.com/"
   },
   {
     "id": 2,
-    "title": "Mr. Krabs",
-    "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
-    "description": "Restaurant Owner",
-    "link": "A Giant Anchor"
+    "title": "Employee Directory",
+    "image": "https://github.com/brentp24/employee-directory/raw/master/images/directory.jpg",
+    "description": "Employee directory with search and sort",
+    "link": "https://brentp24.github.io/employee-directory/",
+    "github": "https://github.com/brentp24/employee-directory"
   },
   {
     "id": 3,
-    "title": "Squidward",
-    "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
-    "description": "Cashier",
-    "link": "An Easter Island Head"
+    "title": "Online/Offline Budget Tracker",
+    "image": "https://github.com/brentp24/budget-tracker/raw/master/image/budget-tracker.jpg",
+    "description": "Tracks income and expenses and can save in the cache even when off line",
+    "link": "https://bp-budget-tracker.herokuapp.com/",
+    "github": "https://github.com/brentp24/budget-tracker"
   },
   {
     "id": 4,
-    "title": "Dexter",
-    "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
-    "description": "Boy Genius",
-    "link": "A Secret Laboratory"
+    "title": "strtUP",
+    "image": "https://github.com/brentp24/strtUP/raw/master/assets/images/strtup.png",
+    "description": "Browser Dashboard with widgets",
+    "link": "https://brentp24.github.io/strtUP/",
+    "github": "https://github.com/brentp24/strtUP"
   },
   {
     "id": 5,
-    "title": "Courage",
-    "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
-    "description": "A Cowardly Dog",
-    "link": "Nowhere, Kansas"
+    "title": "Note Taker",
+    "image": "https://github.com/brentp24/note-taker/raw/master/image/note-taker.jpg",
+    "description": "App for to take, save and delete notes",
+    "link": "https://shielded-falls-84012.herokuapp.com/",
+    "github": "https://github.com/brentp24/note-taker"
   },
   {
     "id": 6,
-    "title": "Doug Funnie",
-    "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
-    "description": "Student",
-    "link": "Bluffington"
+    "title": "Weather App",
+    "image": "https://github.com/brentp24/weatherapp/raw/master/assets/images/Weather-App-Final.jpg",
+    "description": "Search the weather by city including a 5 day forecast",
+    "link": "https://brentp24.github.io/weatherapp/",
+    "github": "https://github.com/brentp24/weatherapp"
   },
   {
     "id": 7,
-    "title": "Bugs Bunny",
-    "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
-    "description": "Looney Toon",
-    "link": "A Rabbit Burrow"
+    "title": "Daily Planner",
+    "image": "https://github.com/brentp24/brents-daily-planner/raw/master/assets/daily-planner.jpg",
+    "description": "Save your daily schedule",
+    "link": "https://brentp24.github.io/brents-daily-planner/",
+    "github": "https://github.com/brentp24/brents-daily-planner"
   },
   {
     "id": 8,
-    "title": "Johnny Bravo",
-    "image": "http://vignette3.wikia.nocookie.net/p__/images/9/9a/Johnny_Bravo.png/revision/latest?cb=20131031233339&path-prefix=protagonist",
-    "description": "Ladies Man",
-    "link": "Aron City"
+    "title": "Burger Joint",
+    "image": "https://github.com/brentp24/burger-joint/raw/master/assets/eat-a-burger.jpg",
+    "description": "Add new burgers and change the status",
+    "link": "https://git.heroku.com/secure-bayou-48916.git",
+    "github": "https://github.com/brentp24/burger-joint"
   },
   {
     "id": 9,
-    "title": "Tommy Pickles",
-    "image": "https://vignette4.wikia.nocookie.net/uncyclopedia/images/e/e4/Tommy_Pickles.png/revision/latest?cb=20110530102641",
-    "description": "Adventurer",
-    "link": "California"
+    "title": "Workout Tracker",
+    "image": "https://github.com/brentp24/workout/blob/master/images/charts.jpg?raw=true",
+    "description": "Tracks Workouts",
+    "link": "https://pump-up.herokuapp.com/ ",
+    "github": "https://github.com/brentp24/workout"
   },
   {
     "id": 10,
-    "title": "Rocko",
-    "image": "http://vignette3.wikia.nocookie.net/rockosmodernlife/images/9/9e/Rockos-modern-life-4e582a8f06a41.png/revision/latest?cb=20130522173416",
-    "description": "Cashier",
-    "link": "O-Town, California"
-  },
-  {
-    "id": 11,
-    "title": "Captain Planet",
-    "image": "http://vignette2.wikia.nocookie.net/dragon-rap-battles/images/b/b6/Captain_Planet.png/revision/latest?cb=20160911200836",
-    "description": "Superhero",
-    "link": "Earth"
-  },
-  {
-    "id": 12,
-    "title": "Ickis",
-    "image": "http://static.tvtropes.org/pmwiki/pub/images/ickis.png",
-    "description": "Ahhhh! A Real Monster!",
-    "link": "Under a City Dump"
+    "title": "Covid State by State",
+    "image": "https://github.com/brentp24/covid-state-by-state/raw/master/assets/Picture1.jpg",
+    "description": "Covid growth rates state by state visualization",
+    "link": "https://brentp24.github.io/covid-state-by-state/",
+    "github": "https://github.com/brentp24/covid-state-by-state"
   }
 ]

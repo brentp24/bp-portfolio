@@ -17,7 +17,8 @@ function Card(props) {
                         <strong>Description:</strong> {props.description}
                     </li>
                     <li>
-                        <Button href={props.link}>Link to application</Button> 
+                        <Button className={"btn btn-dark"} style={{margin: "10px"}} href={props.link}>App</Button> 
+                        <Button style={{margin: "10px"}} href={props.github}>GitHub</Button> 
                     </li>
                 </ul>
             </div>
